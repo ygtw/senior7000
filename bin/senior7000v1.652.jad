@@ -1,0 +1,13 @@
+MIDlet-1: 單字隨堂考, senior7000.png, senior7000
+MIDlet-Icon: /senior7000.png
+MIDlet-Info-URL: http://ppt.cc/93Be
+MIDlet-Jar-Size: 70611
+MIDlet-Jar-URL: senior7000v1.652.jar
+MIDlet-Name: 單字隨堂考
+MIDlet-Vendor: LFking
+MIDlet-Version: 1.652
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
+Pay-Update-Stamp: 2011-03-29 12:00
+Pay-Update-URL: http://ppt.cc/93Be
+Pay-Version: 1.652

@@ -1,0 +1,5 @@
+-libraryjars E:\WTK2.5.2\lib\jsr75.jar;E:\WTK2.5.2\lib\midpapi20.jar;E:\WTK2.5.2\lib\cldcapi11.jar
+-injars C:\Users\LFking\j2mewtk\2.5.2\apps\senior7000\bin\senior7000.jar
+-outjar C:\Users\LFking\AppData\Local\Temp\senior7000.jar
+-keep public class * extends javax.microedition.midlet.MIDlet 
+-dontusemixedcaseclassnames
