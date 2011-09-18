@@ -7,12 +7,12 @@ rich text file.
 files
 -------
 
-src /  - ¥Dµ{¦¡ 
+src /  - ä¸»ç¨‹å¼ 
 
-res /data.txt - ³æ¦r®w
+res /data.txt - å–®å­—åº«
 
 
 Installation
 -----------
 
-¥ÎJ2ME¤½ª©¥Dµ{¦¡¶}µo
+ç”¨J2MEå…¬ç‰ˆä¸»ç¨‹å¼é–‹ç™¼
